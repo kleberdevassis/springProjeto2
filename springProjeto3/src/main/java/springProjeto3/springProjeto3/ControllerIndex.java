@@ -1,4 +1,4 @@
-package springProjeto2.springProjeto2;
+package springProjeto3.springProjeto3;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
