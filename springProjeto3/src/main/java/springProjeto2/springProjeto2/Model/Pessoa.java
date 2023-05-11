@@ -1,4 +1,4 @@
-package springProjeto3.springProjeto3.Model;
+package springProjeto2.springProjeto2.Model;
 
 import java.io.Serializable;
 
